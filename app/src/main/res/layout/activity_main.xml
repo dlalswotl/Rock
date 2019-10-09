@@ -70,7 +70,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="96dp"
         android:background="@drawable/edit_round2"
-        android:hint="숫자로 입력하세요"
+        android:hint="숫자를 입력 or 그림을 터치하세요"
         android:padding="10dp"
         android:textColor="#ffffff"
         android:textColorHint="#ffffff"
